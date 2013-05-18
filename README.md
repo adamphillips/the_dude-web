@@ -21,8 +21,6 @@ By default this will use the selenium driver however other Capybara drivers
 can be configured as per the instructions in the [Capybara
 readme](https://github.com/jnicklas/capybara)
 
-Command 'qmake -spec macx-g++' not availabluuua
-
 ### Installing
 
 Simply install the gem using
