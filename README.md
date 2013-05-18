@@ -21,3 +21,19 @@ By default this will use the selenium driver however other Capybara drivers
 can be configured as per the instructions in the [Capybara
 readme](https://github.com/jnicklas/capybara)
 
+Command 'qmake -spec macx-g++' not availabluuua
+
+### Installing
+
+Simply install the gem using
+
+```shell
+$ gem install the_dude-web
+```
+
+The dude should detect the plugin and initialize it automatically. In order to
+check that the plugin is installed you can type
+
+```shell
+$ dude list plugins
+```
